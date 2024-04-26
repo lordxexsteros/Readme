@@ -1,4 +1,4 @@
-# Test
+# READ
 
 HELLO MY friend!
  Welcome to my git hub
